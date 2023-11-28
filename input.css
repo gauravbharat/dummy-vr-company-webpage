@@ -87,3 +87,7 @@
     }
   }
 }
+.ficon:hover {
+  filter: invert(53%) sepia(68%) saturate(434%) hue-rotate(270deg)
+    brightness(101%) contrast(94%);
+}
