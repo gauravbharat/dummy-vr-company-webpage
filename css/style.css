@@ -680,6 +680,10 @@ h5 {
   margin-top: 1.5rem;
 }
 
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
 .flex {
   display: flex;
 }
@@ -945,6 +949,10 @@ h5 {
   .sm\:my-32 {
     margin-top: 8rem;
     margin-bottom: 8rem;
+  }
+
+  .sm\:mb-20 {
+    margin-bottom: 5rem;
   }
 
   .sm\:text-4xl {
